@@ -7,10 +7,16 @@ namespace Palindromes.Tests
   public class PalindromeTests
   {
     [TestMethod]
-    public void IsPalindrome_ReverseInput_ReturnString()
+    public void Reverse_ReverseInput_ReturnString()
     {
       Palindrome testPalindrome = new Palindrome();
-      Assert.AreEqual("olleh", testPalindrome.IsPalindrome("hello"));
+      Assert.AreEqual("olleh", testPalindrome.Reverse("hello"));
+    }
+    [TestMethod]
+    public void IsPalindrome_IsInputPalindrome_False()
+    {
+      Palindrome testPalindrome = new Palindrome();
+      Assert.AreEqual(false, testPalindrome.IsPalindrome("bob"));
     }
   }
 }
