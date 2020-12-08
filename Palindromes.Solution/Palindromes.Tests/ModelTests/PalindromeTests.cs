@@ -16,7 +16,7 @@ namespace Palindromes.Tests
     public void IsPalindrome_IsInputPalindrome_False()
     {
       Palindrome testPalindrome = new Palindrome();
-      Assert.AreEqual(false, testPalindrome.IsPalindrome("bob"));
+      Assert.AreEqual(false, testPalindrome.IsPalindrome("hello"));
     }
   }
 }
