@@ -1,0 +1,17 @@
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csprojAssemblyReference.cache
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csproj.CoreCompileInputs.cache
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.AssemblyInfoInputs.cache
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.AssemblyInfo.cs
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.deps.json
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.runtimeconfig.json
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.runtimeconfig.dev.json
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.pdb
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.pdb
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csproj.CopyComplete
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.dll
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.pdb
