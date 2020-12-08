@@ -13,10 +13,16 @@ namespace Palindromes.Tests
       Assert.AreEqual("olleh", testPalindrome.Reverse("hello"));
     }
     [TestMethod]
-    public void IsPalindrome_IsInputPalindrome_False()
+    public void IsPalindrome_IsInputNotAPalindrome_False()
     {
       Palindrome testPalindrome = new Palindrome();
       Assert.AreEqual(false, testPalindrome.IsPalindrome("hello"));
+    }
+    [TestMethod]
+    public void IsPalindrome_IsInputPalindrome_True()
+    {
+      Palindrome testPalindrome = new Palindrome();
+      Assert.AreEqual(true, testPalindrome.IsPalindrome("hello olleh"));
     }
   }
 }
