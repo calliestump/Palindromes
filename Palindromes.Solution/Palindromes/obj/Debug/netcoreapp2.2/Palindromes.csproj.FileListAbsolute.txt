@@ -7,3 +7,5 @@
 /Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes/bin/Debug/netcoreapp2.2/Palindromes.pdb
 /Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes/obj/Debug/netcoreapp2.2/Palindromes.dll
 /Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes/obj/Debug/netcoreapp2.2/Palindromes.pdb
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes/bin/Debug/netcoreapp2.2/Palindromes.runtimeconfig.json
+/Users/kailasprague/Desktop/palindromes/Palindromes.Solution/Palindromes/bin/Debug/netcoreapp2.2/Palindromes.runtimeconfig.dev.json
